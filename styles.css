@@ -147,9 +147,10 @@ CARD SECTION */
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-around;
     padding: 45px;
     width: 350px;
-    height: auto;
+    height: 1000px;
     line-height: 1.5em;
     text-align: center;
 }
