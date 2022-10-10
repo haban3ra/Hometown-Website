@@ -253,6 +253,7 @@ a.btn-feature:hover{
     display: flex;
     flex-direction: column;
     align-items: center;
+    font-size: 1.5em;
     line-height: 2em;
 }
 
