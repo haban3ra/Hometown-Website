@@ -6,5 +6,5 @@ This hometown website is completely fictional. I treat this as a tribute to one 
 Powered by HTML, CSS and Flexbox to make it responsive 🎉
 For feedback and suggestions please let me know! Thanks. 🚀
 
-- [Hit me up!](https://twitter.com/haban3ra
+[Hit me up!](https://twitter.com/haban3ra)
 
