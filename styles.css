@@ -240,7 +240,7 @@ a.btn-feature:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 15px;
+    padding: 30px;
 }
 
 .wrap img {
@@ -249,7 +249,7 @@ a.btn-feature:hover{
 }
 
 .bio {
-    padding: 15px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
