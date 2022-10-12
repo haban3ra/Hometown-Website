@@ -307,9 +307,9 @@ video {
   }
 	
   .guide {
-    margin: 50px;
+    margin: 50px 0;
     line-height: 1em;
-    padding: 50px;
+    padding: 50px 20px;
   }
 	
   .activity {
