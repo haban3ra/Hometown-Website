@@ -293,11 +293,12 @@ video {
 
 @media screen and (max-width: 600px) {
   .video-player, .feature, .hero, .footer-vid {
-    font-size: 1.5rem;
-    width: 50vh;
+    font-size: 1em;
     height: 70vw;
+    line-height: 1em;
 
   }
   .guide {
     margin: 50px;
+    line-height: 1em;
   }
