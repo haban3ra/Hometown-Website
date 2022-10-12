@@ -303,3 +303,8 @@ video {
     margin: 50px;
     line-height: 1em;
   }
+   .arrows {
+    position: relative;
+  }
+	
+	
