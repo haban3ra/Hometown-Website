@@ -257,6 +257,7 @@ a.btn-feature:hover{
     align-items: center;
     font-size: 1em;
     line-height: 1.8em;
+    padding: 30px;
 }
 
 .footer-vid {
@@ -307,11 +308,11 @@ video {
     padding: 30px 20px;
   }
 	
-  .activity {
-    row-gap: 20px;	
+  .bio {
+    padding: 30px;
   }
-
+	
   .arrows {
-    display: none;
+    visibility:hidden;
   }
 	
