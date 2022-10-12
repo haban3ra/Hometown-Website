@@ -304,7 +304,6 @@ video {
     width: 100%;
     height: 70vw;
     line-height: 1em;
-
   }
 	
   .guide {
@@ -313,8 +312,11 @@ video {
     padding: 50px;
   }
 	
-.activity {
-   padding: 25px;
-	
-	}
+  .activity {
+    padding: 25px;	
+  }
+
+  .arrows, scroll {
+    display: none;
+  }
 	
