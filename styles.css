@@ -139,6 +139,7 @@ CARD SECTION */
     gap: 20px;
     flex-wrap: wrap;
     margin: 100px;
+	
     
 }
 
@@ -153,6 +154,7 @@ CARD SECTION */
     height: 750px;
     line-height: 1.5em;
     text-align: center;
+    border-radius: 15px;
 }
 
 /* .item:hover{
