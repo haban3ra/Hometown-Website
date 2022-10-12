@@ -206,7 +206,7 @@ a.btn:hover{
     align-items: center;
     justify-content: center;
     color: #ddccdd ;
-    font-size: 1.5em;
+    font-size: 2em;
     padding: 50px;
     text-shadow: 1px 1px 3px rgb(37, 37, 37), 
                 1px 1px 3px rgb(36, 36, 36);
@@ -249,6 +249,7 @@ a.btn-feature:hover{
 .wrap img {
     width: 150px;
     clip-path: polygon(50% 0%, 83% 12%, 100% 43%, 94% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+    padding: 30px;
 }
 
 .bio {
@@ -257,7 +258,7 @@ a.btn-feature:hover{
     align-items: center;
     font-size: 1em;
     line-height: 1.8em;
-    padding: 30px;
+    
 }
 
 .footer-vid {
@@ -296,7 +297,7 @@ video {
 
 @media screen and (max-width: 600px) {
   .video-player, .feature, .hero, .footer-vid {
-    font-size: 1.5em;
+    font-size: 1em;
     width: 100%;
     height: 70vw;
     line-height: 1em;
@@ -308,9 +309,6 @@ video {
     padding: 30px 20px;
   }
 	
-  .bio {
-    padding: 30px;
-  }
 	
   .arrows {
     visibility:hidden;
