@@ -294,5 +294,7 @@ video {
 @media screen and (max-width: 600px) {
   .video-player, .feature, .hero {
     font-size: 1rem;
+    width: 50vh;
+    height: 60vw;
 
   }
