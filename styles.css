@@ -240,7 +240,7 @@ a.btn-feature:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 30px;
+    
 }
 
 .wrap img {
@@ -287,4 +287,12 @@ video {
     padding: 50px;
     text-shadow: 1px 1px 3px rgb(37, 37, 37), 
                 1px 1px 3px rgb(36, 36, 36);
+  }
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 600px) {
+  .video-player, .feature, .hero {
+    font-size: 1rem;
+
   }
