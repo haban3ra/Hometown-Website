@@ -298,3 +298,6 @@ video {
     height: 60vw;
 
   }
+  .guide {
+    margin: 50px;
+  }
