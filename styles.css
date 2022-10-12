@@ -176,7 +176,7 @@ a.btn{
     font-style: normal;
     text-decoration: none;
     margin: 20px;
-    padding: 6px 15px;
+    padding: 12px 18px;
     border: 0px solid #000;
     border-radius: 10px;
     display: inline-block;
@@ -299,12 +299,19 @@ video {
     line-height: 1em;
 
   }
+	
   .guide {
     margin: 50px;
     line-height: 1em;
+    padding: 50px;
   }
+	
    .arrows {
     position: relative;
   }
-	
+ 
+  .activity {
+    gap: 50px;
+	  
+  }
 	
