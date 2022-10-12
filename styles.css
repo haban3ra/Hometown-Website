@@ -316,7 +316,7 @@ video {
     padding: 25px;	
   }
 
-  .arrows, scroll {
+  .arrows, .scroll {
     display: none;
   }
 	
